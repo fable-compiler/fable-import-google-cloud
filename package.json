@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neoeinstein/fable-import-google-cloud.git"
+    "url": "git+https://github.com/fable-compiler/fable-import-google-cloud.git"
   },
   "keywords": [
     "fsharp",
@@ -19,9 +19,9 @@
   "author": "Marcus Griep",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/neoeinstein/fable-import-google-cloud/issues"
+    "url": "https://github.com/fable-compiler/fable-import-google-cloud/issues"
   },
-  "homepage": "https://github.com/neoeinstein/fable-import-google-cloud#readme",
+  "homepage": "https://github.com/fable-compiler/fable-import-google-cloud#readme",
   "devDependencies": {
     "babel-core": "^6.23.1",
     "babel-loader": "^6.4.0",
