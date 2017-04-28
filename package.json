@@ -1,6 +1,6 @@
 {
   "name": "fable-import-google-cloud",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Fable bindings for interacting with Google Cloud",
   "scripts": {
     "pretest": "webpack --config tests/webpack.config.js",
